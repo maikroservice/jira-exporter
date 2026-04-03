@@ -1,0 +1,7 @@
+{
+  "self": "http://127.0.0.1:18080/rest/api/3/user?accountId=abc123",
+  "accountId": "abc123",
+  "displayName": "Test User",
+  "emailAddress": "user@example.com",
+  "active": true
+}

@@ -1,0 +1,10 @@
+{
+  "startAt": 0,
+  "maxResults": 50,
+  "total": 2,
+  "isLast": true,
+  "values": [
+    {"id": 1, "name": "PROJ Scrum Board", "type": "scrum",   "location": {"projectKey": "PROJ"}},
+    {"id": 2, "name": "TEAM Kanban Board", "type": "kanban", "location": {"projectKey": "TEAM"}}
+  ]
+}

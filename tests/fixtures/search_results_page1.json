@@ -1,0 +1,26 @@
+{
+  "startAt": 0,
+  "maxResults": 1,
+  "total": 2,
+  "issues": [
+    {
+      "id": "10001",
+      "key": "PROJ-1",
+      "fields": {
+        "summary": "Fix login bug",
+        "status": {"name": "In Progress"},
+        "issuetype": {"name": "Bug"},
+        "priority": {"name": "High"},
+        "assignee": {"displayName": "John Doe"},
+        "reporter": {"displayName": "Jane Smith"},
+        "labels": [],
+        "created": "2024-01-15T10:00:00.000+0000",
+        "updated": "2024-01-20T15:30:00.000+0000"
+      },
+      "renderedFields": {
+        "description": "<p>Users cannot log in.</p>",
+        "comment": {"comments": []}
+      }
+    }
+  ]
+}
